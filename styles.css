@@ -1,0 +1,124 @@
+/* font-family: 'Raleway', sans-serif; */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    font-family: 'Raleway', sans-serif;
+    background: #f1f3fa;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    color: #101453;
+    margin-top: 35px;
+}
+
+h2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 46px;
+    font-weight: 700;
+    text-align: center;
+    color: #daa520;
+    margin-top: 10px;
+    width: 240px;
+    text-shadow: 1.5px 3.5px 1px #101453;
+    /* border-bottom: 4px solid #FF005C, #101453; */
+}
+
+.p-black {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    text-align: center;
+    width: 270px;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 400;
+   
+}
+
+h4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    text-align: center;
+    width: 270px;
+    font-size: 20px;
+    color: #FF005C;
+    margin-bottom: 15px;
+}
+
+
+
+.gift-bg {
+    background: url("images/gift-cover.jpg");
+    background-size: cover;
+    box-shadow: 2px 2px 4px black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 50px;
+}
+
+.gift-bg:hover {
+    background: url("images/bye 2022.gif");
+    background-size: cover;
+    display: block;
+    box-shadow: none;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 60px;
+    margin-top: 20px;
+    background: #FA9601;
+    font-size: 32px;
+    font-weight: 700;
+    color: #CED9FB;
+    border: none;
+    border-radius: 15px;
+    margin-bottom: 40px;
+    box-shadow: 0px 2px 2px black;
+}
+
+button:hover {
+    
+    background: #daa520;
+    font-size: 32px;
+    font-weight: 700;
+    color: #CED9FB;
+    box-shadow: none;
+    box-shadow: 0px -2px 2px #FF005C;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:visited {
+    color: #CED9FB;
+}
+
+a:active {
+    color: #CED9FB;
+}
+

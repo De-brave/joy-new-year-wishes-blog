@@ -1,0 +1,236 @@
+/* font-family: 'Raleway', sans-serif; */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    
+    font-family: 'Raleway', sans-serif;
+    background: #010101;
+    color: #CED9FB;
+    text-align: center;
+}
+
+h1 {
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 80px;
+}
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 5px;
+    font-weight: 700;
+    color: #daa520;
+}
+
+h4 {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px; 
+    font-size: 32px;
+    color: #CCE1DA;
+    margin-bottom: 50px;
+}
+
+.SpecialP-01 {
+    margin-top: 50px;
+    font-size: 24px;
+    color: #daa520;
+    margin-bottom: 20px;
+}
+
+h3 {
+    margin-top: 40px;
+    font-size: 32px;
+    color: #FF005C;
+}
+
+#bg2023-img {
+    width: 322px;
+}
+
+
+.gift-bg {
+    background: url("images/gift-cover.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.gift-bg:hover {
+    background: url("images/giphy(4).gif");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    border-bottom: 5px solid #FF005C;
+}
+
+.gift-bg1 {
+    background: url("images/gift-cover.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.gift-bg1:hover {
+    background: url("images/joy-img02.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    border-right: 5px solid #FF005C; 
+    
+}
+
+.gift-bg2 {
+    background: url("images/gift-cover.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.gift-bg2:hover {
+    background: url("images/joy-img04.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    border-top: 5px solid #FF005C; 
+}
+
+.gift-bg3 {
+    background: url("images/gift-cover.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.gift-bg3:hover {
+    background: url("images/joy-img03.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    border-left: 5px solid #FF005C;
+}
+
+.gift-bg4 {
+    background: url("images/joy-img05.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.gift-bg4:hover {
+    background: url("images/hot.gif");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    border-bottom: 5px solid #FF005C;
+}
+
+p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 15px;
+    text-align: center;
+    width: 270px;
+    line-height: 32px;
+    font-size: 22px;
+}
+
+.SpecialP-02 {
+    margin-top: 70px;
+    font-size: 24px;
+    color: #daa520;
+    margin-bottom: 24px;
+    
+}
+
+.Avatar-bg {
+    background: url("images/my-avatar-croped.jpg");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+.Avatar-bg:hover {
+    background: url("images/giphy.gif");
+    background-size: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    height: 250px;
+    margin-bottom: 30px;
+    transition: 0.4s;
+    border-left: 5px solid #FF005C; 
+}
+
+/* button {
+    margin-top: 40px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 325px;
+    height: 60px;
+    background: #FA9601;
+    font-size: 32px;
+    font-weight: 700;
+    color: #CED9FB;
+    border: none;
+    border-radius: 15px;
+} */
+
+span {
+    font-size: 20px;
+    margin-top: 50px;
+    color: #CCE1DA;
+}
